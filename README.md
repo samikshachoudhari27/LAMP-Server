@@ -1,13 +1,4 @@
-User Browser
-     |
-     |  (Public IP)
-     v
-EC2 Instance (Amazon Linux 2)
- ├─ Apache Web Server
- ├─ PHP
- └─ MySQL (MariaDB)
 
- 
 🚀 LAMP Server Implementation on AWS EC2
 
 Successfully designed and deployed a LAMP (Linux, Apache, MySQL/MariaDB, PHP) stack on AWS EC2, demonstrating hands-on expertise in cloud infrastructure, Linux administration, and web application hosting.
