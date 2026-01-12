@@ -1,37 +1,23 @@
 
 🚀 LAMP Server Implementation on AWS EC2
 
-Successfully designed and deployed a LAMP (Linux, Apache, MySQL/MariaDB, PHP) stack on AWS EC2, demonstrating hands-on expertise in cloud infrastructure, Linux administration, and web application hosting.
+Designed, implemented, and deployed a fully functional LAMP (Linux, Apache, MySQL/MariaDB, PHP) stack on AWS EC2, demonstrating hands-on expertise in cloud infrastructure, web server management, and database-driven application hosting.
 
-🔧 Key Highlights:
+Key Highlights:
 
-Launched and configured EC2 instance in a public subnet with proper security group rules (SSH & HTTP).
+Deployed EC2 instance in a public subnet with secure SSH & HTTP access.
 
-Installed and managed Apache HTTP Server to host web applications.
+Installed and configured Apache Web Server to host dynamic web applications.
 
-Installed PHP 8.x and verified Apache–PHP integration using phpinfo().
+Implemented PHP 8.x with Apache integration, verified using phpinfo().
 
-Installed and secured MariaDB (MySQL-compatible) database on Amazon Linux 2023.
+Installed and secured MariaDB, created databases and users following best security practices.
 
-Created database, users, and applied best practices for database security (non-root access).
+Developed PHP scripts for connecting to the database, performing CRUD operations, and displaying dynamic content.
 
-Connected PHP application to MariaDB and validated database connectivity via browser.
+Applied advanced features: prepared statements, error handling, separate config file for DB credentials, and secure file permissions.
 
-Gained practical experience with dnf package manager, system services, and Linux commands.
-
-Troubleshot OS-specific issues (Amazon Linux 2023 vs Amazon Linux 2).
+Gained practical experience with Linux commands, SSH, package management (dnf), and AWS cloud services.
 
 🛠️ Technologies Used:
-
-AWS EC2
-
-Amazon Linux 2023
-
-Apache (httpd)
-
-PHP 8.x
-
-MariaDB (MySQL)
-
-Linux, SSH, Networking
-
+AWS EC2 | Amazon Linux 2023 | Apache HTTPD | PHP 8.x | MariaDB | Linux | SSH | Web Hosting
