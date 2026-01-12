@@ -65,16 +65,15 @@ Apply best practices: separate config file, file permissions, error handling
 
 Access web server in browser:
 
-http://<EC2-Public-IP>/index.php
-
+http://EC2-Public-IP/index.php
 
 Test database insertion:
 
-http://<EC2-Public-IP>/insert.php
+http://EC2-Public-IP/insert.php
 
 Fetch database records:
 
-http://<EC2-Public-IP>/fetch.php
+http://EC2-Public-IP/fetch.php
 
 🔹 Outcome
 
